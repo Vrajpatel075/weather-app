@@ -1,0 +1,1 @@
+Weather App is a sleek, responsive platform that lets users check real-time weather conditions by city. It fetches data from the OpenWeatherMap API and displays temperature, wind speed, humidity, and weather icons with smooth UI transitions. Designed with HTML, CSS, and JavaScript, it includes error handling for invalid inputs
